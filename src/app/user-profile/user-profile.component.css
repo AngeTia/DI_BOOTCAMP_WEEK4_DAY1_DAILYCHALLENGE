@@ -1,0 +1,14 @@
+h1,h2 {
+    text-align: center;
+    font-size: xx-large;
+    text-transform: uppercase;
+}
+
+h1 {
+    color: green;
+}
+img{
+    width: 500px;
+    height: 500px;
+    margin-left: 27em;
+}
