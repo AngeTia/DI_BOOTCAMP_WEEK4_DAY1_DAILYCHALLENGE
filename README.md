@@ -1,4 +1,16 @@
-# DailyChallenge
+## DailyChallenge
+*********************************************************************
+Instructions
+Create a new Angular project using the Angular CLI.
+
+Create a new component called “UserProfileComponent” and add a template that displays a user’s name and profile picture.
+
+In the component class, create a property called “user” of type “User” and initialize it with a mock user object.
+
+Add a “getFullName()” method to the component class that returns the user’s full name (first name and last name).
+
+In the template, use the “getFullName()” method to display the user’s full name and bind the profile picture to the “profilePictureUrl” property of the user object.
+***********************************************************************
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
 
